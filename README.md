@@ -88,3 +88,8 @@ We have already vaguely answered this. Formally, they are :
 
 * :atom: **Level 5** : Fully autonomous driving
     * Add unlimited ODD to level 4, and we have the highest level of automation in driving systems
+
+### 🉑 What are the limitations of this taxonomy?
+* Levels of autonomy are a course measure, i.e., 2 different car models claimig the same level can have very different capabilities
+* ODD is very important
+* Safety of driver, passenger, and everybody and everything else on the road is the most important

@@ -32,6 +32,6 @@ For the classification, some important things need to be considered. For example
 <br>
 
 ### 🉑 Defining a driving task
-Firstly, we need a `LATERAL` control. In other words, steering and navigation on a road.<br>
-Next, we have `LONGITUDINAL` control. This refers to controlling the position and velocity of car on a road through acceleration or braking actions.<br>
-After this, we have `Object and Event Detection and Response (OEDR)`
+* Firstly, we need a `LATERAL` control. In other words, steering and navigation on a road.<br>
+* Next, we have `LONGITUDINAL` control. This refers to controlling the position and velocity of car on a road through acceleration or braking actions.<br>
+* After this, we have `Object and Event Detection and Response (OEDR)`

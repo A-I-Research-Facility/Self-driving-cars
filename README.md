@@ -14,4 +14,6 @@
 ## 💢 Module 1 : Taxonomy of driving
 
 ### System of classification for autonomous driving
-1. Driving task : 
+1. Driving task : This consists of 3 subtasks. They are, a) perceiving the environment; b) planning route from point A to B; c) controlling the vehicle.
+<br>
+3. Operational design domain (ODD) : 

@@ -11,3 +11,8 @@
 
 
 ## 💢 Module 1 : Taxonomy of driving
+
+### System of classification for autonomous driving
+* Driving task :<br>
+ 1. Perceiving the environment
+ 2. Planning routes (point A to point B) 

@@ -13,7 +13,7 @@
 
 ## 💢 Module 1 : Taxonomy of driving
 
-### 🉑 Important terms
+### 🉑 Important terms and their definitions
 1. **Driving task** : This consists of 3 subtasks. They are, 
     * perceiving the environment; 
     * planning route from point A to B; 
@@ -23,15 +23,26 @@
 
 <br>
 
-### 🉑 Classifying driving system automation
-For the classification, some important things need to be considered. For example,
+### 🉑 How to classify level of automation in driving systems?
+In order to understand this, we need to answer the following questions :
 * How much DRIVER ATTENTION is needed?
 * How much DRIVER ACTION is needed?
 * What makes up a complete driving task?
 
 <br>
 
-### 🉑 Defining a driving task
-* Firstly, we need a `LATERAL` control. In other words, steering and navigation on a road.<br>
-* Next, we have `LONGITUDINAL` control. This refers to controlling the position and velocity of car on a road through acceleration or braking actions.<br>
-* After this, we have `Object and Event Detection and Response (OEDR)`
+### 🉑 How do we define a driving task?
+To define a driving task, we need some fundamental properties.
+* Firstly, we need a `LATERAL control`. In other words, steering and navigation on a road.<br>
+* Next, we have `LONGITUDINAL control`. This refers to controlling the position and velocity of car on a road through acceleration or braking actions.<br>
+* After this, we have `Object and Event Detection and Response (OEDR)`. This refers to detection and response of objects that immidiately affect the driving task. This is used in conjunction with specific ODD.
+* Next, comes `Planning`. This refers to the selection of routes and deciding the lanes and crossings of movement.
+* Finally, we have `Miscellaneous` tasks. These consist of actions like signalling using indicators, controlling the lights, etc.
+
+<br>
+
+### 🉑 Which questions will lead us to taxonomy for classifying level of automation
+We have already vaguely answered this. Formally, they are :
+* Can system handle lateral control?
+* Can system handle longitudinal control?
+* Can system handle emergency responses?

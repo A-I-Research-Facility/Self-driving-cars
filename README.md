@@ -3,7 +3,7 @@
 ## 💢 Index
 * **[Module 1 : Taxonomy of driving](#-module-1--taxonomy-of-driving)**
 
-  1. *[System of classification for autonomous driving](#important-terms)*
+  1. *[Important terms](#important-terms)*
   2. *[Perception requirements]()*
   3. *[Actions and driving decisions]()*
 
@@ -28,3 +28,10 @@ For the classification, some important things need to be considered. For example
 * How much DRIVER ATTENTION is needed?
 * How much DRIVER ACTION is needed?
 * What makes up a complete driving task?
+
+<br>
+
+### 🉑 Defining a driving task
+Firstly, we need a `LATERAL` control. In other words, steering and navigation on a road.<br>
+Next, we have `LONGITUDINAL` control. This refers to controlling the position and velocity of car on a road through acceleration or braking actions.<br>
+After this, we have `Object and Event Detection and Response (OEDR)`

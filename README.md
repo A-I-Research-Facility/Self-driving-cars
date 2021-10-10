@@ -1,8 +1,10 @@
 # Self Driving Cars
 
-Introductory course on self driving cars. The course follows through real world data and scenarios from reasearches conducted by some of leading experts in the industry. 
+Introductory course on self driving cars. This course follows through real world data and scenarios from reasearches conducted by some of leading experts in the industry. 
 
-This is a self sufficient, beginner friendly course that is easy to follow along. However, in case of any queries, use the discussions tab.
+This is a self sufficient, beginner friendly course that is easy to follow along. However, if you face any queries, please use the discussions tab.
+
+In order to contribute to the project, you can create a pull a request.
 
 Enjoy!!!
 

@@ -7,5 +7,7 @@
   * Actions and driving decisions
 
 <!-- * **[Module 2]()** -->
+<br>
+<br>
 
 ## 💢 Module 1 : Taxonomy of driving

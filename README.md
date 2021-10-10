@@ -6,6 +6,6 @@
   * Perception requirements
   * Actions and driving decisions
 
-* **[Module 2]()**
+<!-- * **[Module 2]()** -->
 
 ## 💢 Module 1 : Taxonomy of driving

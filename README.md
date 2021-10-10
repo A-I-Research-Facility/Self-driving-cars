@@ -24,4 +24,7 @@
 <br>
 
 ### 🉑 Classifying driving system automation
-For the classification, some important things need to be considered. For example,<br>
+For the classification, some important things need to be considered. For example,
+* How much DRIVER ATTENTION is needed?
+* How much DRIVER ACTION is needed?
+* What makes up a complete driving task?

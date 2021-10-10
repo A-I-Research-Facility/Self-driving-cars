@@ -23,7 +23,11 @@
 
 2. **Operational design domain (ODD)** : It defines the optimal operating conditions for a system. Like, roads, environment, etc. Needs to be planned carefully in advanced.
 
-<br>
+<br/>
+<div align="right">
+    <b><a href="#-index">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ### 🉑 How to classify level of automation in driving systems?
 In order to understand this, we need to answer the following questions :
@@ -31,7 +35,11 @@ In order to understand this, we need to answer the following questions :
 * How much DRIVER ACTION is needed?
 * What makes up a complete driving task?
 
-<br>
+<br/>
+<div align="right">
+    <b><a href="#-index">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ### 🉑 How do we define a driving task?
 To define a driving task, we need some fundamental properties.
@@ -41,7 +49,11 @@ To define a driving task, we need some fundamental properties.
 * Next, comes `Planning`. This refers to the selection of routes and deciding the lanes and crossings of movement.
 * Finally, we have `Miscellaneous` tasks. These consist of actions like signalling using indicators, controlling the lights, etc.
 
-<br>
+<br/>
+<div align="right">
+    <b><a href="#-index">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ### 🉑 Which questions will lead us to taxonomy for classifying level of automation?
 We have already vaguely answered this. Formally, they are :
@@ -51,7 +63,11 @@ We have already vaguely answered this. Formally, they are :
 * Is driver attention required in emergencies?
 * Does the system have a limited ODD, or it can perform in all conditions?
 
-<br>
+<br/>
+<div align="right">
+    <b><a href="#-index">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ### 🉑 What are common levels of automation (defined by SAE Standard J3 016)?
 * :atom: **Level 0** : No automation
@@ -91,7 +107,19 @@ We have already vaguely answered this. Formally, they are :
 * :atom: **Level 5** : Fully autonomous driving
     * Add unlimited ODD to level 4, and we have the highest level of automation in driving systems
 
+<br/>
+<div align="right">
+    <b><a href="#-index">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
 ### 🉑 What are the limitations of this taxonomy?
 * Levels of autonomy are a course measure, i.e., 2 different car models claimig the same level can have very different capabilities
 * ODD is very important
 * Safety of driver, passenger, and everybody and everything else on the road is the most important
+
+<br/>
+<div align="right">
+    <b><a href="#-index">⬆️ Back to Top</a></b>
+</div>
+<br/>

@@ -3,11 +3,11 @@
 ## 💢 Index
 * **[Module 1 : Taxonomy of driving](#-module-1--taxonomy-of-driving)**
   1. [Important terms](#-important-terms-and-their-definitions)
-  2. [Classifying level of automation in driving systems?](#-How-to-classify-level-of-automation-in-driving-systems?)
-  3. [Defining a driving task?](#-How-do-we-define-a-driving-task?)
-  4. [Taxonomy criterion for classifying level of automation?](#-Which-questions-will-lead-us-to-taxonomy-for-classifying-level-of-automation?)
-  5. [Common levels of automation](#-What-are-common-levels-of-automation-(defined-by-SAE-Standard-J3-016)?)
-  6. [Limitations of this taxonomy](#-What-are-the-limitations-of-this-taxonomy?)
+  2. [Classifying level of automation in driving systems?](#-How-to-classify-level-of-automation-in-driving-systems)
+  3. [Defining a driving task?](#-How-do-we-define-a-driving-task)
+  4. [Taxonomy criterion for classifying level of automation?](#-Which-questions-will-lead-us-to-taxonomy-for-classifying-level-of-automation)
+  5. [Common levels of automation](#-What-are-common-levels-of-automation-(defined-by-SAE-Standard-J3-016))
+  6. [Limitations of this taxonomy](#-What-are-the-limitations-of-this-taxonomy)
 
 <!-- * **[Module 2]()** -->
 <br>

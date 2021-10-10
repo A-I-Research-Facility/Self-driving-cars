@@ -1,2 +1,11 @@
 # Self Driving Cars
-A full in-depth course on self driving cars covering software and hardware architecture
+
+## Index
+* **[Module 1 : Taxonomy of driving]()**
+  * System of classification for autonomous driving
+  * Perception requirements
+  * Actions and driving decisions
+
+* **[Module 2]()**
+
+## 💢 Module 1 : Taxonomy of driving

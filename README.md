@@ -33,7 +33,7 @@ In order to understand this, we need to answer the following questions :
 
 ### 🉑 How do we define a driving task?
 To define a driving task, we need some fundamental properties.
-* Firstly, we need a `LATERAL control`. In other words, steering and navigation on a road.<br>
+* Firstly, we have `LATERAL control`. In other words, steering and navigation on a road.<br>
 * Next, we have `LONGITUDINAL control`. This refers to controlling the position and velocity of car on a road through acceleration or braking actions.<br>
 * After this, we have `Object and Event Detection and Response (OEDR)`. This refers to detection and response of objects that immidiately affect the driving task. This is used in conjunction with specific ODD.
 * Next, comes `Planning`. This refers to the selection of routes and deciding the lanes and crossings of movement.

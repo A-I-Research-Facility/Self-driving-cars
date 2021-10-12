@@ -16,6 +16,7 @@ Enjoy!!!
   4. [Taxonomy criterion for classifying level of automation](#-Which-questions-will-lead-us-to-taxonomy-for-classifying-level-of-automation)
   5. [Common levels of automation](#-what-are-common-levels-of-automation-defined-by-sae-standard-j3-016)
   6. [Limitations of this taxonomy](#-What-are-the-limitations-of-this-taxonomy)
+  7. [Additional reading]
 
 <!-- * **[Module 2]()** -->
 <br>
@@ -125,6 +126,16 @@ We have already vaguely answered this. Formally, they are :
 * Levels of autonomy are a course measure, i.e., 2 different car models claimig the same level can have very different capabilities
 * ODD is very important
 * Safety of driver, passenger, and everybody and everything else on the road is the most important
+
+<br/>
+<div align="right">
+    <b><a href="#-index">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+### 🉑 Addtional Reading Resources
+* [SAE J3016: Taxonomy and Definitions Document](https://www.sae.org/standards/content/j3016_201806/)
+* [SAE's website](https://www.sae.org/)
 
 <br/>
 <div align="right">

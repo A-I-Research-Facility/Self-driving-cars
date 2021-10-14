@@ -16,7 +16,7 @@ Enjoy!!!
 |  2  | [Requirements for perception]() |
 |  3  | [Driving decisions and actions]() |
 
-### [Module 2 : Self Driving Hardware and Software Architectures](#-module-1--taxonomy-of-driving)
+### [Module 2 : Self Driving Hardware and Software Architectures]()
 |  Chapter No. | Name      |
 |:-----:|---------------|
 |  1  | [Sensors and computing hardware]() |

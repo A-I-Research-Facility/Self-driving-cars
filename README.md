@@ -23,8 +23,8 @@ Enjoy!!!
 |:-----:|---------------|
 |  1  | [Sensors and computing hardware]() |
 |  2  | [Hardware configuration design]() |
-|  3  | [Driving decisions and actions]() |
-|  3  | [Driving decisions and actions]() |
+|  3  | [Software architecture]() |
+|  3  | []() |
 
 <br>
 

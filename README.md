@@ -12,7 +12,7 @@ Enjoy!!!
 ### [Module 1 : Requirements for Autonomy](#-module-1--taxonomy-of-driving)
 |  Chapter No. | Name      |
 |:-----:|---------------|
-|  1  | [Taxonomy of driving](#-important-terms-and-their-definitions) |
+|  1  | [Taxonomy of Driving](#-important-terms-and-their-definitions) |
 |  2  | [Requirements for perception]() |
 |  3  | [Driving decisions and actions]() |
 
@@ -29,7 +29,7 @@ Enjoy!!!
 <br>
 
 # 💢 Module 1 : Requirements for Autonomy
-## 📘 Chapter 1 : Taxonomy of driving
+## 📘 Chapter 1 : Taxonomy of Driving
 
 ### 🖍️ Important terms and their definitions :-<br>
 1. **Driving task** : This consists of 3 subtasks. They are, 
@@ -167,3 +167,6 @@ We have already vaguely answered this. Formally, they are :
     <b><a href="#-index">⬆️ Back to Top</a></b>
 </div>
 <br/>
+
+
+## 📘 Chapter 2 : Requirements for Perception

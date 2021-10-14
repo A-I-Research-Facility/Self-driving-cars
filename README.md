@@ -18,13 +18,13 @@ Enjoy!!!
 
 <br>
 
-### [Module 2 : Self Driving Hardware and Software Architectures]()
+<!-- ### [Module 2 : Self Driving Hardware and Software Architectures]()
 |  Chapter No. | Name      |
 |:-----:|---------------|
 |  1  | [Sensors and computing hardware]() |
 |  2  | [Hardware configuration design]() |
 |  3  | [Software architecture]() |
-|  4  | [Environment representation]() |
+|  4  | [Environment representation]() | -->
 
 <br>
 

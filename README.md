@@ -22,7 +22,7 @@ Enjoy!!!
 |  Chapter No. | Name      |
 |:-----:|---------------|
 |  1  | [Sensors and computing hardware]() |
-|  2  | [Requirements for perception]() |
+|  2  | [Hardware configuration design]() |
 |  3  | [Driving decisions and actions]() |
 
 <br>

@@ -14,7 +14,7 @@ Enjoy!!!
 |:-----:|---------------|
 |  1  | [Taxonomy of Driving]() |
 |  2  | [Requirements for perception]() |
-|  3  | [Driving decisions and actions]() |
+<!-- |  3  | [Driving decisions and actions]() | -->
 
 <br>
 

@@ -20,8 +20,8 @@ Enjoy!!!
 |  Chapter No. | Name      |
 |:-----:|---------------|
 |  1  | [Sensors and computing hardware]() |
-|  2  | [Requirements for perception](#-important-terms-and-their-definitions) |
-|  3  | [Driving decisions and actions](#-important-terms-and-their-definitions) |
+|  2  | [Requirements for perception]() |
+|  3  | [Driving decisions and actions]() |
 
 <br>
 

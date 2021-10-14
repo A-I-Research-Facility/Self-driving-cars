@@ -14,7 +14,7 @@ Enjoy!!!
 |:-----:|---------------|
 |  1  | [Taxonomy of driving](#-important-terms-and-their-definitions) |
 |  2  | [Requirements for perception](#-important-terms-and-their-definitions) |
-|  3  | [](#-important-terms-and-their-definitions) |
+|  3  | [Driving decisions and actions](#-important-terms-and-their-definitions) |
 
 <!--   1. [Chapter 1 : Taxonomy of driving](#-important-terms-and-their-definitions)
   2. [Classifying level of automation in driving systems](#-How-to-classify-level-of-automation-in-driving-systems)

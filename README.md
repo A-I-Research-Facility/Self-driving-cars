@@ -9,8 +9,8 @@ In order to contribute to the project, you can create a pull a request.
 Enjoy!!!
 
 # 💢 Index
-* **[Module 1 : Requirements for autonomy](#-module-1--taxonomy-of-driving)**
-  1. [Important terms](#-important-terms-and-their-definitions)
+* ### [Module 1 : Requirements for autonomy](#-module-1--taxonomy-of-driving)
+  1. [Chapter 1 : Taxonomy of driving](#-important-terms-and-their-definitions)
   2. [Classifying level of automation in driving systems](#-How-to-classify-level-of-automation-in-driving-systems)
   3. [Defining a driving task](#-How-do-we-define-a-driving-task)
   4. [Taxonomy criterion for classifying level of automation](#-Which-questions-will-lead-us-to-taxonomy-for-classifying-level-of-automation)

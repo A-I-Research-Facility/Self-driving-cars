@@ -7,7 +7,6 @@ Self driving cars can be considered as rich, inter-disciplinary problems. This m
 * Definition of driving environment
 
 <br>
-<br>
 
 ### Chapter-wise index :
 |  Chapter No. | Name      |

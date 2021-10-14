@@ -22,9 +22,9 @@ Enjoy!!!
 <br>
 
 # 💢 Module 1 : Requirements for Autonomy
-## Chapter 1 : Taxonomy of driving
+## 📘 Chapter 1 : Taxonomy of driving
 
-🉑 Important terms and their definitions :-<br>
+### 🖍️ Important terms and their definitions :-<br>
 1. **Driving task** : This consists of 3 subtasks. They are, 
     * perceiving the environment; 
     * planning route from point A to B; 
@@ -40,7 +40,7 @@ Enjoy!!!
 <br>
 <br>
 
-🉑 How to classify level of automation in driving systems?<br>
+### 🖍️ How to classify level of automation in driving systems?<br>
 
 In order to understand this, we need to answer the following questions :
 * How much DRIVER ATTENTION is needed?
@@ -55,7 +55,7 @@ In order to understand this, we need to answer the following questions :
 <br>
 <br>
 
-🉑 How do we define a driving task?<br>
+### 🖍️ How do we define a driving task?<br>
 
 To define a driving task, we need some fundamental properties.
 * Firstly, we have `LATERAL control`. In other words, steering and navigation on a road.<br>
@@ -72,7 +72,7 @@ To define a driving task, we need some fundamental properties.
 <br>
 <br>
 
-🉑 Which questions will lead us to taxonomy for classifying level of automation?<br>
+### 🖍️ Which questions will lead us to taxonomy for classifying level of automation?<br>
 
 We have already vaguely answered this. Formally, they are :
 * Can system handle lateral control?
@@ -89,7 +89,7 @@ We have already vaguely answered this. Formally, they are :
 <br>
 <br>
 
-🉑 What are common levels of automation (defined by SAE Standard J3 016)?<br>
+### 🖍️ What are common levels of automation (defined by SAE Standard J3 016)?<br>
 
 * :atom: **Level 0** : No automation
     * Everything done by driver
@@ -136,7 +136,7 @@ We have already vaguely answered this. Formally, they are :
 <br>
 <br>
 
-🉑 What are the limitations of this taxonomy?<br>
+### 🖍️ What are the limitations of this taxonomy?<br>
 
 * Levels of autonomy are a course measure, i.e., 2 different car models claimig the same level can have very different capabilities
 * ODD is very important
@@ -150,7 +150,7 @@ We have already vaguely answered this. Formally, they are :
 <br>
 <br>
 
-🉑 Addtional Reading Resources<br>
+### 🖍️ Addtional Reading Resources<br>
 
 * [SAE J3016: Taxonomy and Definitions Document](https://www.sae.org/standards/content/j3016_201806/)
 * [SAE's website](https://www.sae.org/)

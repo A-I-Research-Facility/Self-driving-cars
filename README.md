@@ -11,7 +11,7 @@ Enjoy!!!
 # 💢 Index
 ### [Module 1 : Requirements for Autonomy](#-module-1--taxonomy-of-driving)
 |  Chapter No. | Name      |
-|:-----:|:---------------:|
+|:-----:|:---------------|
 |  1  | [Taxonomy of driving](#-important-terms-and-their-definitions) |
 |  2  | [Requirements for perception](#-important-terms-and-their-definitions) |
 |  3  | [](#-important-terms-and-their-definitions) |

@@ -13,18 +13,16 @@ Enjoy!!!
 |  Chapter No. | Name      |
 |:-----:|---------------|
 |  1  | [Taxonomy of driving](#-important-terms-and-their-definitions) |
+|  2  | [Requirements for perception]() |
+|  3  | [Driving decisions and actions]() |
+
+### [Module 2 : Self Driving Hardware and Software Architectures](#-module-1--taxonomy-of-driving)
+|  Chapter No. | Name      |
+|:-----:|---------------|
+|  1  | [Sensors and computing hardware]() |
 |  2  | [Requirements for perception](#-important-terms-and-their-definitions) |
 |  3  | [Driving decisions and actions](#-important-terms-and-their-definitions) |
 
-<!--   1. [Chapter 1 : Taxonomy of driving](#-important-terms-and-their-definitions)
-  2. [Classifying level of automation in driving systems](#-How-to-classify-level-of-automation-in-driving-systems)
-  3. [Defining a driving task](#-How-do-we-define-a-driving-task)
-  4. [Taxonomy criterion for classifying level of automation](#-Which-questions-will-lead-us-to-taxonomy-for-classifying-level-of-automation)
-  5. [Common levels of automation](#-what-are-common-levels-of-automation-defined-by-sae-standard-j3-016)
-  6. [Limitations of this taxonomy](#-What-are-the-limitations-of-this-taxonomy)
-  7. [Additional reading](#-addtional-reading-resources) -->
-
-<!-- * **[Module 2]()** -->
 <br>
 
 # 💢 Module 1 : Requirements for Autonomy

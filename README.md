@@ -8,8 +8,8 @@ In order to contribute to the project, you can create a pull a request.
 
 Enjoy!!!
 
-## 💢 Index
-* **[Module 1 : Taxonomy of driving](#-module-1--taxonomy-of-driving)**
+# 💢 Index
+* **[Module 1 : Requirements for autonomy](#-module-1--taxonomy-of-driving)**
   1. [Important terms](#-important-terms-and-their-definitions)
   2. [Classifying level of automation in driving systems](#-How-to-classify-level-of-automation-in-driving-systems)
   3. [Defining a driving task](#-How-do-we-define-a-driving-task)
@@ -21,10 +21,10 @@ Enjoy!!!
 <!-- * **[Module 2]()** -->
 <br>
 
+# 💢 Module 1 : Requirements for Autonomy
+## Chapter 1 : Taxonomy of driving
 
-## 💢 Module 1 : Taxonomy of driving
-
-### 🉑 Important terms and their definitions
+🉑 Important terms and their definitions :-<br>
 1. **Driving task** : This consists of 3 subtasks. They are, 
     * perceiving the environment; 
     * planning route from point A to B; 
@@ -32,25 +32,31 @@ Enjoy!!!
 
 2. **Operational design domain (ODD)** : It defines the optimal operating conditions for a system. Like, roads, environment, etc. Needs to be planned carefully in advanced.
 
-<br/>
+<!-- <br/>
 <div align="right">
     <b><a href="#-index">⬆️ Back to Top</a></b>
 </div>
-<br/>
+<br/> -->
+<br>
+<br>
 
-### 🉑 How to classify level of automation in driving systems?
+🉑 How to classify level of automation in driving systems?<br>
+
 In order to understand this, we need to answer the following questions :
 * How much DRIVER ATTENTION is needed?
 * How much DRIVER ACTION is needed?
 * What makes up a complete driving task?
 
-<br/>
+<!-- <br/>
 <div align="right">
     <b><a href="#-index">⬆️ Back to Top</a></b>
 </div>
-<br/>
+<br/> -->
+<br>
+<br>
 
-### 🉑 How do we define a driving task?
+🉑 How do we define a driving task?<br>
+
 To define a driving task, we need some fundamental properties.
 * Firstly, we have `LATERAL control`. In other words, steering and navigation on a road.<br>
 * Next, we have `LONGITUDINAL control`. This refers to controlling the position and velocity of car on a road through acceleration or braking actions.<br>
@@ -58,13 +64,16 @@ To define a driving task, we need some fundamental properties.
 * Next, comes `Planning`. This refers to the selection of routes and deciding the lanes and crossings of movement.
 * Finally, we have `Miscellaneous` tasks. These consist of actions like signalling using indicators, controlling the lights, etc.
 
-<br/>
+<!-- <br/>
 <div align="right">
     <b><a href="#-index">⬆️ Back to Top</a></b>
 </div>
-<br/>
+<br/> -->
+<br>
+<br>
 
-### 🉑 Which questions will lead us to taxonomy for classifying level of automation?
+🉑 Which questions will lead us to taxonomy for classifying level of automation?<br>
+
 We have already vaguely answered this. Formally, they are :
 * Can system handle lateral control?
 * Can system handle longitudinal control?
@@ -72,13 +81,16 @@ We have already vaguely answered this. Formally, they are :
 * Is driver attention required in emergencies?
 * Does the system have a limited ODD, or it can perform in all conditions?
 
-<br/>
+<!-- <br/>
 <div align="right">
     <b><a href="#-index">⬆️ Back to Top</a></b>
 </div>
-<br/>
+<br/> -->
+<br>
+<br>
 
-### 🉑 What are common levels of automation (defined by SAE Standard J3 016)?
+🉑 What are common levels of automation (defined by SAE Standard J3 016)?<br>
+
 * :atom: **Level 0** : No automation
     * Everything done by driver
 <br>
@@ -116,24 +128,30 @@ We have already vaguely answered this. Formally, they are :
 * :atom: **Level 5** : Fully autonomous driving
     * Add unlimited ODD to level 4, and we have the highest level of automation in driving systems
 
-<br/>
+<!-- <br/>
 <div align="right">
     <b><a href="#-index">⬆️ Back to Top</a></b>
 </div>
-<br/>
+<br/> -->
+<br>
+<br>
 
-### 🉑 What are the limitations of this taxonomy?
+🉑 What are the limitations of this taxonomy?<br>
+
 * Levels of autonomy are a course measure, i.e., 2 different car models claimig the same level can have very different capabilities
 * ODD is very important
 * Safety of driver, passenger, and everybody and everything else on the road is the most important
 
-<br/>
+<!-- <br/>
 <div align="right">
     <b><a href="#-index">⬆️ Back to Top</a></b>
 </div>
-<br/>
+<br/> -->
+<br>
+<br>
 
-### 🉑 Addtional Reading Resources
+🉑 Addtional Reading Resources<br>
+
 * [SAE J3016: Taxonomy and Definitions Document](https://www.sae.org/standards/content/j3016_201806/)
 * [SAE's website](https://www.sae.org/)
 

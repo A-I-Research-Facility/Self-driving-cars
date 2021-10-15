@@ -8,7 +8,7 @@ In order to contribute to the project, you can create a pull a request.
 <br>
 <br>
 
-‼️ **DISCLAIMER**<br>
+‼️ **DISCLAIMER** ‼️<br>
 This course has been made by utilising a various number of resources available for General Public Use. I do NOT claim ownership of any material provided directly, or referenced, in this course, in any manner. Links to all of the resources will be provided when the course ends. Similarity to any material availble elsewhere is coincidental.
 <br>
 <br>

@@ -1,10 +1,12 @@
 # 💢 Module 1 : Requirements for Autonomy
 
-Self driving cars can be considered as rich, inter-disciplinary problems. This module with : 
-* Introduction of the problem
-* Language and structure of problem definition
-* Salient elements of driving task
-* Definition of driving environment
+Self driving cars can be considered as rich, inter-disciplinary problems. This module is focused on introducing the language and structure of problem definition, along with most salient elements of driving task and environment.
+
+This module deals with : 
+* Defining necessary environmental elements
+* Breakdown of driving tasks into decisions and actions
+* Analysis of factors affecting driving task
+* Perception, prediction, planning requirements for driving
 
 <br>
 

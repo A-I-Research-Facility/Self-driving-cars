@@ -7,11 +7,6 @@
 
 2. **Operational design domain (ODD)** : It defines the optimal operating conditions for a system. Like, roads, environment, etc. Needs to be planned carefully in advanced.
 
-<!-- <br/>
-<div align="right">
-    <b><a href="#-index">⬆️ Back to Top</a></b>
-</div>
-<br/> -->
 <br>
 <br>
 
@@ -22,11 +17,6 @@ In order to understand this, we need to answer the following questions :
 * How much DRIVER ACTION is needed?
 * What makes up a complete driving task?
 
-<!-- <br/>
-<div align="right">
-    <b><a href="#-index">⬆️ Back to Top</a></b>
-</div>
-<br/> -->
 <br>
 <br>
 
@@ -39,11 +29,6 @@ To define a driving task, we need some fundamental properties.
 * Next, comes `Planning`. This refers to the selection of routes and deciding the lanes and crossings of movement.
 * Finally, we have `Miscellaneous` tasks. These consist of actions like signalling using indicators, controlling the lights, etc.
 
-<!-- <br/>
-<div align="right">
-    <b><a href="#-index">⬆️ Back to Top</a></b>
-</div>
-<br/> -->
 <br>
 <br>
 
@@ -56,11 +41,6 @@ We have already vaguely answered this. Formally, they are :
 * Is driver attention required in emergencies?
 * Does the system have a limited ODD, or it can perform in all conditions?
 
-<!-- <br/>
-<div align="right">
-    <b><a href="#-index">⬆️ Back to Top</a></b>
-</div>
-<br/> -->
 <br>
 <br>
 
@@ -103,11 +83,6 @@ We have already vaguely answered this. Formally, they are :
 * :atom: **Level 5** : Fully autonomous driving
     * Add unlimited ODD to level 4, and we have the highest level of automation in driving systems
 
-<!-- <br/>
-<div align="right">
-    <b><a href="#-index">⬆️ Back to Top</a></b>
-</div>
-<br/> -->
 <br>
 <br>
 
@@ -117,11 +92,6 @@ We have already vaguely answered this. Formally, they are :
 * ODD is very important
 * Safety of driver, passenger, and everybody and everything else on the road is the most important
 
-<!-- <br/>
-<div align="right">
-    <b><a href="#-index">⬆️ Back to Top</a></b>
-</div>
-<br/> -->
 <br>
 <br>
 
@@ -129,3 +99,9 @@ We have already vaguely answered this. Formally, they are :
 
 * [SAE J3016: Taxonomy and Definitions Document](https://www.sae.org/standards/content/j3016_201806/)
 * [SAE's website](https://www.sae.org/)
+
+<br/>
+<div align="center">
+<b><a href="#">Next chapter >></a></b>
+</div>
+<br/>

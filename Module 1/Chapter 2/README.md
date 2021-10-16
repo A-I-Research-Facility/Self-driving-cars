@@ -10,7 +10,7 @@
 
 <br/>
 <div align="center">
-   <b><a href="#"><< Prev &nbsp;&nbsp;</a></b>,
+   <b><a href="https://github.com/A-I-Research-Facility/Self-driving-cars/tree/main/Module%201/Chapter%201#-chapter-1--taxonomy-of-driving"><< Prev &nbsp;&nbsp;</a></b>,
    <b><a href="#">&nbsp;&nbsp;Next >></a></b>
 </div>
 <br/>

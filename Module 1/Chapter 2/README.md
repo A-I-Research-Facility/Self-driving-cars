@@ -41,6 +41,12 @@ Another goal of perception is EGO localization. This means that we should be abl
 * Hardware failure is a big issue. A malfunctioning sensor can have devastating consequenses.
 * Apart from hardware failure, environmental conditions like rain, fog, reflections, lens flare, tunnels, etc., can also hinder with the sensory readings. Accomodation of these sensory uncertainities is quite challenging, but extremely crucial.
 
+<br>
+
+## 🥬 Aditional Reading
+Learn about KITTI vision benchmark suite&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;http://www.cvlibs.net/datasets/kitti/
+
+
 <br/>
 <div align="center">
    <a href="https://github.com/A-I-Research-Facility/Self-driving-cars/tree/main/Module%201/Chapter%201#-chapter-1--taxonomy-of-driving"><< Prev &nbsp;&nbsp;</a>,

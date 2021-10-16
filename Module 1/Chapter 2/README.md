@@ -49,7 +49,7 @@ Learn about KITTI vision benchmark suite&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;htt
 
 <br/>
 <div align="center">
-   <a href="https://github.com/A-I-Research-Facility/Self-driving-cars/tree/main/Module%201/Chapter%201#-chapter-1--taxonomy-of-driving"><< Prev &nbsp;&nbsp;</a>||
-   <a href="#">&nbsp;&nbsp;Next >></a>
+   <a href="https://github.com/A-I-Research-Facility/Self-driving-cars/tree/main/Module%201/Chapter%201#-chapter-1--taxonomy-of-driving"><< Prev</a>&nbsp;&nbsp;&nbsp;||&nbsp;&nbsp;
+   <a href="#">Next >></a>
 </div>
 <br/>

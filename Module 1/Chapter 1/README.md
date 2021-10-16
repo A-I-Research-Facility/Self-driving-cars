@@ -1,5 +1,5 @@
-# 📘 Chapter 1 : Taxonomy of Driving
-## 🖍️ Important terms and their definitions :-<br>
+# Chapter 1 : Taxonomy of Driving
+## 🥬 Important terms and their definitions :-<br>
 1. **Driving task** : This consists of 3 subtasks. They are, 
     * perceiving the environment; 
     * planning route from point A to B; 
@@ -10,7 +10,7 @@
 <br>
 <br>
 
-## 🖍️ How to classify level of automation in driving systems?<br>
+## 🥬 How to classify level of automation in driving systems?<br>
 
 In order to understand this, we need to answer the following questions :
 * How much DRIVER ATTENTION is needed?
@@ -20,7 +20,7 @@ In order to understand this, we need to answer the following questions :
 <br>
 <br>
 
-## 🖍️ How do we define a driving task?<br>
+## 🥬 How do we define a driving task?<br>
 
 To define a driving task, we need some fundamental properties.
 * Firstly, we have `LATERAL control`. In other words, steering and navigation on a road.<br>
@@ -32,7 +32,7 @@ To define a driving task, we need some fundamental properties.
 <br>
 <br>
 
-## 🖍️ Which questions will lead us to taxonomy for classifying level of automation?<br>
+## 🥬 Which questions will lead us to taxonomy for classifying level of automation?<br>
 
 We have already vaguely answered this. Formally, they are :
 * Can system handle lateral control?
@@ -44,13 +44,13 @@ We have already vaguely answered this. Formally, they are :
 <br>
 <br>
 
-## 🖍️ What are common levels of automation (defined by SAE Standard J3 016)?<br>
+## 🥬 What are common levels of automation (defined by SAE Standard J3 016)?<br>
 
 * :atom: **Level 0** : No automation
     * Everything done by driver
 <br>
 
-* :atom: **Level 1** : Driving assistance
+* 🔹 **Level 1** : Driving assistance
     * Either lateral, or, longitudunal control by system
     * Only one control, not both
     * Examples, 
@@ -58,21 +58,21 @@ We have already vaguely answered this. Formally, they are :
         2. Lane keeping assistance - controls steering to stop drift
 <br>
 
-* :atom: **Level 2** : Partial driving automation
+* 🔹 **Level 2** : Partial driving automation
     * Both lateral, and longitudinal control by system
     * Examples,
         1. GM Super cruise
         2. Nissan ProPilot assist
 <br>
 
-* :atom: **Level 3** : Conditional driving automation
+* 🔹 **Level 3** : Conditional driving automation
     * In addition to level 2, system can perform some sort of OEDR
     * Controversial level of automation since it is not really possible for autonomy system to know that it is failing at the moment
     * The driver still needs to be attentive and be ready to take control of the car, however, the system will alert the driver
     * Example, Audi A8 can navigate unmonitored in slow traffic
 <br>
 
-* :atom: **Level 4** : High driving automation
+* 🔹 **Level 4** : High driving automation
     * In this level, the system is capable of reaching a minimum risk condition in case the driver doesn't intervenes in time of emergency.
     * This level of system can handle emergency on its own, but might ask the driver to take over to avoid an uneccassary stop on the road.
     * The driver can check their phones or engage in other activities
@@ -80,13 +80,13 @@ We have already vaguely answered this. Formally, they are :
     * Example, vehiclces deployed by Waymo for public transport
 <br>
 
-* :atom: **Level 5** : Fully autonomous driving
+* 🔹 **Level 5** : Fully autonomous driving
     * Add unlimited ODD to level 4, and we have the highest level of automation in driving systems
 
 <br>
 <br>
 
-## 🖍️ What are the limitations of this taxonomy?<br>
+## 🥬 What are the limitations of this taxonomy?<br>
 
 * Levels of autonomy are a course measure, i.e., 2 different car models claimig the same level can have very different capabilities
 * ODD is very important
@@ -95,7 +95,7 @@ We have already vaguely answered this. Formally, they are :
 <br>
 <br>
 
-## 🖍️ Addtional Reading Resources<br>
+## 🥬 Addtional Reading Resources<br>
 
 * [SAE J3016: Taxonomy and Definitions Document](https://www.sae.org/standards/content/j3016_201806/)
 * [SAE's website](https://www.sae.org/)

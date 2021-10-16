@@ -2,6 +2,8 @@
 
 Self driving cars can be considered as rich, inter-disciplinary problems. This module is focused on introducing the language and structure of problem definition, along with most salient elements of driving task and environment.
 
+<br>
+
 This module deals with : 
 * Defining necessary environmental elements
 * Breakdown of driving tasks into decisions and actions

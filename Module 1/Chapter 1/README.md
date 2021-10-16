@@ -46,42 +46,42 @@ We have already vaguely answered this. Formally, they are :
 
 ## 🥬 What are common levels of automation (defined by SAE Standard J3 016)?<br>
 
-* 🔹 **Level 0** : No automation
-    * Everything done by driver
+🔹 **Level 0** : No automation
+* Everything done by driver
 <br>
 
-* 🔹 **Level 1** : Driving assistance
-    * Either lateral, or, longitudunal control by system
-    * Only one control, not both
-    * Examples, 
+🔹 **Level 1** : Driving assistance
+* Either lateral, or, longitudunal control by system
+* Only one control, not both
+* Examples, 
         1. Adaptive cruise control - controls the speed by acceleration and braking
         2. Lane keeping assistance - controls steering to stop drift
 <br>
 
-* 🔹 **Level 2** : Partial driving automation
-    * Both lateral, and longitudinal control by system
-    * Examples,
+🔹 **Level 2** : Partial driving automation
+* Both lateral, and longitudinal control by system
+* Examples,
         1. GM Super cruise
         2. Nissan ProPilot assist
 <br>
 
-* 🔹 **Level 3** : Conditional driving automation
-    * In addition to level 2, system can perform some sort of OEDR
-    * Controversial level of automation since it is not really possible for autonomy system to know that it is failing at the moment
-    * The driver still needs to be attentive and be ready to take control of the car, however, the system will alert the driver
-    * Example, Audi A8 can navigate unmonitored in slow traffic
+🔹 **Level 3** : Conditional driving automation
+* In addition to level 2, system can perform some sort of OEDR
+* Controversial level of automation since it is not really possible for autonomy system to know that it is failing at the moment
+* The driver still needs to be attentive and be ready to take control of the car, however, the system will alert the driver
+* Example, Audi A8 can navigate unmonitored in slow traffic
 <br>
 
-* 🔹 **Level 4** : High driving automation
-    * In this level, the system is capable of reaching a minimum risk condition in case the driver doesn't intervenes in time of emergency.
-    * This level of system can handle emergency on its own, but might ask the driver to take over to avoid an uneccassary stop on the road.
-    * The driver can check their phones or engage in other activities
-    * This level of automation is still only possible in limited ODD
-    * Example, vehiclces deployed by Waymo for public transport
+🔹 **Level 4** : High driving automation
+* In this level, the system is capable of reaching a minimum risk condition in case the driver doesn't intervenes in time of emergency.
+* This level of system can handle emergency on its own, but might ask the driver to take over to avoid an uneccassary stop on the road.
+* The driver can check their phones or engage in other activities
+* This level of automation is still only possible in limited ODD
+* Example, vehiclces deployed by Waymo for public transport
 <br>
 
-* 🔹 **Level 5** : Fully autonomous driving
-    * Add unlimited ODD to level 4, and we have the highest level of automation in driving systems
+🔹 **Level 5** : Fully autonomous driving
+* Add unlimited ODD to level 4, and we have the highest level of automation in driving systems
 
 <br>
 <br>

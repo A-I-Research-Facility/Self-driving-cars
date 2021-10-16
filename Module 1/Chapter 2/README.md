@@ -1,4 +1,4 @@
-# 📘 Chapter 2 : Requirements for perception
+# Chapter 2 : Requirements for perception
 
 In this chapter, we will analyze how a driving task is performed. We will understand the meaning of perception, its goals, the neccessary requirements, and the challenges faced.
 
@@ -9,7 +9,7 @@ Strictly stating, there are 2 components of a driving task :
 <br>
 <br>
 
-## 🖍️ What is perception?
+## 🥬 What is perception?
 Simply defined, the identification and analysis of an object and its motion in the environment is called perception. It is a neccessity in order to make sense of the environment.
 
 Perception is required to make informed decisions.
@@ -17,7 +17,7 @@ Perception is required to make informed decisions.
 <br>
 <br>
 
-## 🖍️ Goals for perception
+## 🥬 Goals for perception
 
 <br/>
 <div align="center">

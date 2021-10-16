@@ -1,12 +1,17 @@
-# 📘 Chapter 1 : Taxonomy of Driving
-## 🖍️ Important terms and their definitions :-<br>
-1. **Driving task** : This consists of 3 subtasks. They are, 
-    * perceiving the environment; 
-    * planning route from point A to B; 
-    * controlling the vehicle.
+# 📘 Chapter 2 : Requirements for perception
 
-2. **Operational design domain (ODD)** : It defines the optimal operating conditions for a system. Like, roads, environment, etc. Needs to be planned carefully in advanced.
+In this chapter, we will analyze how a driving task is performed. We will understand the meaning of perception, its goals, the neccessary requirements, and the challenges faced.
 
+Strictly stating, there are 2 components of a driving task :
+* analysis of motion and environment (perception)
+* driving decision, including route planning, maneuver, etc. (planning)
+
+## 🖍️ What is perception?
+Simply defined, the identification and analysis of an object and its motion in the environment is called perception. It is a neccessity in order to make sense of the environment.
+
+Perception is required to make informed decisions.
+
+## 🖍️ Goals for perception
 
 <br/>
 <div align="center">

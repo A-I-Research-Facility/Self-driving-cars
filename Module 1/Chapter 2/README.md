@@ -39,6 +39,7 @@ Another goal of perception is EGO localization. This means that we should be abl
 * Even though detection, and segmentation of objects is done with advanced machine learning methods, their reliability cannot be 100% guaranteed. In fact, it is far from what humans can do.
 * A huge amount of training data is required for machine learning models. And processing this data before feeding it to the model, is a very expensive and time consuming task. Unfortunately, it cannot be done with machines.
 * Hardware failure is a big issue. A malfunctioning sensor can have devastating consequenses.
+* Apart from hardware failure, environmental conditions like rain, fog, reflections, lens flare, tunnels, etc., can also hinder with the sensory readings. Accomodation of these sensory uncertainities is quite challenging, but extremely crucial.
 
 <br/>
 <div align="center">

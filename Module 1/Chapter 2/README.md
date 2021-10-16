@@ -6,10 +6,16 @@ Strictly stating, there are 2 components of a driving task :
 * analysis of motion and environment (perception)
 * driving decision, including route planning, maneuver, etc. (planning)
 
+<br>
+<br>
+
 ## 🖍️ What is perception?
 Simply defined, the identification and analysis of an object and its motion in the environment is called perception. It is a neccessity in order to make sense of the environment.
 
 Perception is required to make informed decisions.
+
+<br>
+<br>
 
 ## 🖍️ Goals for perception
 

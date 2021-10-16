@@ -102,6 +102,6 @@ We have already vaguely answered this. Formally, they are :
 
 <br/>
 <div align="center">
-<b><a href="#">Next chapter >></a></b>
+<b><a href="https://github.com/A-I-Research-Facility/Self-driving-cars/blob/main/Module%201/Chapter%202/README.md#-chapter-2--requirements-for-perception">Next >></a></b>
 </div>
 <br/>

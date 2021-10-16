@@ -15,12 +15,12 @@ This course has been made by utilising a various number of resources available f
 
 Enjoy!!!
 
-# 💢 Index
-### [Module 1 : Requirements for Autonomy](#-module-1--taxonomy-of-driving)
+# Index
+### 🔶 [Module 1 : Requirements for Autonomy](https://github.com/A-I-Research-Facility/Self-driving-cars/tree/main/Module%201#-module-1--requirements-for-autonomy)
 |  Chapter No. | Name      |
 |:-----:|---------------|
-|  1  | [Taxonomy of Driving]() |
-|  2  | [Requirements for perception]() |
+|  1  | [Taxonomy of Driving](https://github.com/A-I-Research-Facility/Self-driving-cars/tree/main/Module%201/Chapter%201#-chapter-1--taxonomy-of-driving) |
+|  2  | [Requirements for perception](https://github.com/A-I-Research-Facility/Self-driving-cars/blob/main/Module%201/Chapter%202/README.md#-chapter-2--requirements-for-perception) |
 <!-- |  3  | [Driving decisions and actions]() | -->
 
 <br>

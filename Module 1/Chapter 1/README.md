@@ -95,7 +95,7 @@ We have already vaguely answered this. Formally, they are :
 <br>
 <br>
 
-## 🥬 Addtional Reading Resources<br>
+## 🥬 Addtional Reading<br>
 
 * [SAE J3016: Taxonomy and Definitions Document](https://www.sae.org/standards/content/j3016_201806/)
 * [SAE's website](https://www.sae.org/)

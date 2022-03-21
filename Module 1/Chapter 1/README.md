@@ -66,7 +66,7 @@ We have already vaguely answered this. Formally, they are :
 <br>
 
 🔹 **Level 3 : Conditional driving automation**
-* In addition to level 2, system can perform some sort of OEDR
+* In addition to level 2, system can perform some sort of OEDR (Object and Event Detection and Response)
 * Controversial level of automation since it is not really possible for autonomy system to know that it is failing at the moment
 * The driver still needs to be attentive and be ready to take control of the car, however, the system will alert the driver
 * Example, Audi A8 can navigate unmonitored in slow traffic

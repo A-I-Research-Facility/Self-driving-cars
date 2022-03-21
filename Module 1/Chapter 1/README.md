@@ -46,6 +46,8 @@ We have already vaguely answered this. Formally, they are :
 
 ## 🥬 What are common levels of automation (defined by SAE Standard J3 016)?<br>
 
+SAE : Society of Automotive Engineers
+
 🔹 **Level 0 : No automation**
 * Everything done by driver
 <br>

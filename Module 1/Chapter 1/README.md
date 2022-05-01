@@ -90,7 +90,7 @@ SAE : Society of Automotive Engineers
 
 ## 🥬 What are the limitations of this taxonomy?<br>
 
-* Levels of autonomy are a course measure, i.e., 2 different car models claimig the same level can have very different capabilities
+* Levels of autonomy are a course measure, i.e., 2 different car models claiming the same level can have very different capabilities
 * ODD is very important
 * Safety of driver, passenger, and everybody and everything else on the road is the most important
 

@@ -97,7 +97,7 @@ SAE : Society of Automotive Engineers
 <br>
 <br>
 
-## 🥬 Addtional Reading<br>
+## 🥬 Additional Reading<br>
 
 * [SAE J3016: Taxonomy and Definitions Document](https://www.sae.org/standards/content/j3016_201806/)
 * [SAE's website](https://www.sae.org/)
